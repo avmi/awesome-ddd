@@ -311,6 +311,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [NetDevPack](https://github.com/netdevpack) - A smart set of common classes and implementations to improve your development productivity using .NET (DDD, CQRS, Specification Pattern, MediatR, Validations, Notifications).
 - [NEventStore](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 - [NServiceBus](https://github.com/Particular/NServiceBus) - Service bus for .NET.
+- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - OpenCQRS is a .NET framework for DDD, CQRS, and Event Sourcing. It can be used as a simple mediator or as a full Event Sourcing solution with Cosmos DB or Entity Framework Core as storage. It has built-in support for Service Bus, Rabbit MQ, Redis Cache, Memory Cache, and Fluent Validation among other features.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
 - [shriek-fx](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
