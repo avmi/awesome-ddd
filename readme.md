@@ -392,9 +392,9 @@ The term was coined by Eric Evans in his book of the same title.
 - [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 - [Map of user groups in Oceania](https://datawrapper.dwcdn.net/jdLbp/)
 - [Virtual](https://virtualddd.com/)
-- [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
+- [Worldwide](https://kommunity.com/worldwide-eventstorming) - Specific about EventStorming
 - [Austria](https://www.meetup.com/ddd-vienna/)
-- [Barcelona](https://www.meetup.com/dddbcn/)
+- [Barcelona](https://kommunity.com/dddbcn)
 - [Belfast](https://dddbelfast.com/)
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
