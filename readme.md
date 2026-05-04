@@ -253,6 +253,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
 - [Booster framework examples](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
 - [Over-engineered ToDo app](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS generated using the [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language).
+- [`txob`](https://github.com/osbytes/txob) - Transactional outbox event processor with Postgres and MongoDB native plugins — at-least-once delivery, near-realtime wakeup signals, graceful shutdown, and horizontal scalability.
 
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
