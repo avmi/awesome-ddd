@@ -314,6 +314,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
 - [shriek-fx](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
+- [Stratara](https://github.com/yesbert/Stratara) - CQRS and Event Sourcing framework for .NET with tamper-evident streams and tenant-aware encryption, plus integrated mediator, outbox, sagas and projections.
 - [Streamstone](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Stringly.Typed](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
 - [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
