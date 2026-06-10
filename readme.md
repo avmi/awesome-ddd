@@ -234,6 +234,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Modular Monolith](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 - [Modular.StarterTemplate](https://github.com/ryletko/Modular.StarterTemplate) - Starter template for a modular application in Clean Architecture DDD style with synchronous interaction between modules within single transaction. Perfect for ERP applications.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
+- [OpenMind.DDD.Patterns](https://github.com/tung-le-lv/OpenMind.DDD.Patterns) - A comprehensive C# demo of DDD tactical patterns (Entities, Value Objects, Aggregates, Domain Events) and strategic design (Bounded Contexts, Context Mapping) using an order management domain, with CQRS, Event-Driven Architecture, and MongoDB.
 - [Photostock CQRS-DDD Example](https://github.com/mr0zek/Photostock)
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
 - [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
