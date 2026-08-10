@@ -339,6 +339,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) - Open-source, 4th-generation, transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable using DDD and Hexagonal Architecture.
 - [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.  
 - [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+- [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
 
 ### JVM
 - [akka-ddd](https://github.com/pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
