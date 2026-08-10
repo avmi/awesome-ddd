@@ -207,6 +207,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Food App](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
 - [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
 - [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
+- [Go DDD Template](https://github.com/sklinkert/go-ddd) - Production-grade DDD and CQRS template with value objects, race-safe idempotent commands, domain events with a transactional outbox, and a tutorial series teaching DDD from zero.
 - [Simple Hexagonal Architecture PoC API](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
 - [Azure DDD boilerplate](https://github.com/joshpme/azure-go-ddd-boilerplate) - A boilerplate project for DDD in Azure using a custom handler and Cosmos DB for event sourcing
 
